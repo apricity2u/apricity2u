@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=apricity%20to%20you&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Haeun's%20GitHub&fontSize=40&fontAlignY=40&height=200)
+
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,redux,tailwind)](https://skillicons.dev)
 
 
 <!--
