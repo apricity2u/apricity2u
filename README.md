@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=488dfb&text=Welcome%20to%20Haeun's%20GitHub&fontColor=fefefe&fontSize=40&fontAlignY=55&height=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=488dfb&text=Welcome%20to%20Haeun's%20GitHub&fontColor=fefefe&fontSize=40&fontAlignY=40&height=200)
+
 
 > **Frontend**
 
