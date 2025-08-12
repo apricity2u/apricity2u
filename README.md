@@ -25,7 +25,7 @@
 
 > **Tools**
 > 
-[![My Skills](https://skillicons.dev/icons?i=github,figma,notion,jira,slack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,figma,notion)](https://skillicons.dev)
 
 
 
