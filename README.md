@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=488dfb&text=Welcome%20to%20Haeun's%20GitHub&fontColor=fefefe&fontSize=40&fontAlignY=40&height=200)
 
-> **안녕하세요, 프론트엔드 개발자 박하은입니다.**
+> **기록과 설계로 성장하는 프론트엔드 개발자 박하은입니다.**
 
 - 새로운 기술을 빠르게 익히고 적용합니다.</br>
 - 효율적인 협업과 문제 해결로 팀 생산성을 높입니다.</br></br>
